@@ -105,8 +105,8 @@ description:
   {
     "num": 14,
     "role": "Illustrator • Developer",
-    "title": "Adventure Game",
-    "overview": "Personal project developed in which a character explores fantasy-themed island, picks up random objects and uses them to fight enemies and solve puzzles.",
+    "title": "Outdoor Survival Tips Module",
+    "overview": "Module developed teaching survival techniques with everyday objects when stranded in the wilderness.",
     "details": null
   },
   {

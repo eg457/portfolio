@@ -57,8 +57,8 @@ info:
       "slide2": null
     },
     {
-      "start": 17,
-      "weight": 0.31999999999999995,
+      "start": 18,
+      "weight": 0.28,
       "cat0": null,
       "cat1": null,
       "cat2": null,
@@ -91,8 +91,8 @@ info:
       "slide2": 1
     },
     {
-      "start": 14,
-      "weight": 0.43999999999999995,
+      "start": 15,
+      "weight": 0.4,
       "cat0": 3,
       "cat1": 1,
       "cat2": null,
@@ -108,8 +108,8 @@ info:
       "slide2": 1
     },
     {
-      "start": 11,
-      "weight": 0.56,
+      "start": 12,
+      "weight": 0.52,
       "cat0": 3,
       "cat1": 1,
       "cat2": null,
@@ -125,8 +125,8 @@ info:
       "slide2": null
     },
     {
-      "start": 15,
-      "weight": 0.4,
+      "start": 16,
+      "weight": 0.36,
       "cat0": null,
       "cat1": 1,
       "cat2": 1,
@@ -159,8 +159,8 @@ info:
       "slide2": null
     },
     {
-      "start": 8,
-      "weight": 0.6799999999999999,
+      "start": 9,
+      "weight": 0.64,
       "cat0": null,
       "cat1": null,
       "cat2": null,
@@ -193,8 +193,8 @@ info:
       "slide2": null
     },
     {
-      "start": 9,
-      "weight": 0.64,
+      "start": 10,
+      "weight": 0.6,
       "cat0": null,
       "cat1": 1,
       "cat2": null,
@@ -210,8 +210,8 @@ info:
       "slide2": 1
     },
     {
-      "start": 10,
-      "weight": 0.6,
+      "start": 11,
+      "weight": 0.56,
       "cat0": null,
       "cat1": null,
       "cat2": null,
@@ -227,8 +227,8 @@ info:
       "slide2": null
     },
     {
-      "start": 12,
-      "weight": 0.52,
+      "start": 13,
+      "weight": 0.48,
       "cat0": 2,
       "cat1": null,
       "cat2": null,
@@ -244,17 +244,17 @@ info:
       "slide2": null
     },
     {
-      "start": 18,
-      "weight": 0.28,
+      "start": 7,
+      "weight": 0.72,
       "cat0": null,
-      "cat1": null,
+      "cat1": 1,
       "cat2": null,
       "cat3": null,
-      "cat4": null,
+      "cat4": 2,
       "cat5": null,
       "cat6": null,
       "cat7": null,
-      "cat8": null,
+      "cat8": 1,
       "subcat": null,
       "slide": null,
       "subcat2": null,
@@ -278,8 +278,8 @@ info:
       "slide2": null
     },
     {
-      "start": 16,
-      "weight": 0.36,
+      "start": 17,
+      "weight": 0.31999999999999995,
       "cat0": null,
       "cat1": null,
       "cat2": 3,
@@ -346,8 +346,8 @@ info:
       "slide2": null
     },
     {
-      "start": 13,
-      "weight": 0.48,
+      "start": 14,
+      "weight": 0.43999999999999995,
       "cat0": null,
       "cat1": null,
       "cat2": null,
@@ -363,8 +363,8 @@ info:
       "slide2": null
     },
     {
-      "start": 7,
-      "weight": 0.72,
+      "start": 8,
+      "weight": 0.6799999999999999,
       "cat0": null,
       "cat1": null,
       "cat2": null,
